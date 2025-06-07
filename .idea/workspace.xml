@@ -10,32 +10,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/BombermanController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/BombermanController$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/BombermanController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/BombermanController$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/BombermanController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/BombermanController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/SelectBombController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/controller/SelectBombController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/model/Bomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/model/Bomb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/model/MaFacadeBomberman.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/model/MaFacadeBomberman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/model/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/fr/univartois/butinfo/ihm/model/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/univartois/butinfo/ihm/BombermanSelectBombview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/fr/univartois/butinfo/ihm/BombermanSelectBombview.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermaInterface.class.uniqueId3" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermaInterface.class.uniqueId3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermanController$1.class.uniqueId5" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermanController$1.class.uniqueId5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermanController$2.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermanController$2.class.uniqueId0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermanController.class.uniqueId12" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/BombermanController.class.uniqueId12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MaFacadeBomberman.class.uniqueId6" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/MaFacadeBomberman.class.uniqueId6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Player.class.uniqueId2" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Player.class.uniqueId2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SelectBombController.class.uniqueId13" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/SelectBombController.class.uniqueId13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/controller/SelectBombController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/controller/SelectBombController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/model/Bomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/model/Bomb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/model/MaFacadeBomberman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/model/MaFacadeBomberman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/model/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fr/univartois/butinfo/ihm/BombermanSelectBombview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fr/univartois/butinfo/ihm/BombermanSelectBombview.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/fr/univartois/butinfo/ihm/Bombermanview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/fr/univartois/butinfo/ihm/Bombermanview.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fr/univartois/butinfo/ihm/Bombermanview.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fr/univartois/butinfo/ihm/Bombermanview.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +211,7 @@
       <workItem from="1749061822730" duration="19880000" />
       <workItem from="1749201372032" duration="642000" />
       <workItem from="1749223302124" duration="5441000" />
-      <workItem from="1749310447221" duration="11712000" />
+      <workItem from="1749310447221" duration="13155000" />
     </task>
     <servers />
   </component>

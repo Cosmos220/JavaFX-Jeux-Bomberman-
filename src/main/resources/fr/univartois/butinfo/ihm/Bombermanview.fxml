@@ -21,11 +21,16 @@
    </Label>
    <GridPane fx:id="grid" alignment="CENTER" style="-fx-background-color: #34495E; -fx-padding: 10; -fx-background-radius: 5;">
    </GridPane>
-   <HBox alignment="CENTER" prefHeight="326.0" prefWidth="743.0" spacing="15">
+   <Label fx:id="Info" prefHeight="1.0" prefWidth="399.0" style="-fx-font-size:20px " text="🎮 Appuyez sur [I] pour ouvrir l'inventaire 🎮" textFill="WHITE">
+      <font>
+         <Font size="24.0" />
+      </font>
+   </Label>
+   <HBox alignment="CENTER" prefHeight="166.0" prefWidth="743.0" spacing="15">
       <children>
          <Label fx:id="nbBombs" prefHeight="50.0" prefWidth="172.0" style="-fx-background-color: #E74C3C; -fx-text-fill: white; -fx-padding: 10; -fx-background-radius: 5; -fx-font-weight: bold; -fx-alignment: center;" />
          <Label fx:id="Pv" prefHeight="50.0" prefWidth="172.0" style="-fx-background-color: #27AE60; -fx-text-fill: white; -fx-padding: 10; -fx-background-radius: 5; -fx-font-weight: bold; -fx-alignment: center;" />
-          <Button fx:id="restartButton" onAction="#restart" style="-fx-background-color: #2980B9;-fx-text-fill: #ECF0F1;-fx-padding: 10;-fx-background-radius: 5;-fx-font-weight: bold;-fx-cursor: hand;-fx-font-size: 20px;" text="Nouvelle Partie" visible="false" />
+          <Button fx:id="restartButton" onAction="#restart" style="-fx-background-color: #2980B9;-fx-text-fill: #ECF0F1;-fx-padding: 10;-fx-background-radius: 5;-fx-font-weight: bold;-fx-cursor: hand;-fx-font-size: 20px;" text="🎯 NOUVELLE PARTIE 🎯" visible="false" />
          <Label fx:id="etatPartie" prefHeight="35.0" prefWidth="166.0" style="-fx-font-size:20px " textFill="WHITE">
             <font>
                <Font size="24.0" />
