@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7aa1cb5-0e87-4977-b606-bb77d07c9ced" name="Changes" comment="" />
+    <list default="true" id="e7aa1cb5-0e87-4977-b606-bb77d07c9ced" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/controller/BombermanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/controller/BombermanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/controller/SelectBombController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/univartois/butinfo/ihm/controller/SelectBombController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +203,7 @@
       <workItem from="1749061822730" duration="19880000" />
       <workItem from="1749201372032" duration="642000" />
       <workItem from="1749223302124" duration="5441000" />
-      <workItem from="1749310447221" duration="9668000" />
+      <workItem from="1749310447221" duration="10004000" />
     </task>
     <servers />
   </component>
