@@ -41,21 +41,22 @@ public class Player extends AbstractCharacter {
         this.nbBombs = new SimpleIntegerProperty(0);
 
         for (int x = 0; x < 20; x++) {
-            if (x <= 7){
+            if (x <= 10){
+                Bomb bomb = new Bomb(facade);
+                bombs.add(bomb);
+
+        }
+        else if (x <= 13){
             RowBomb bomb = new RowBomb(facade);
             bombs.add(bomb);
 
         }
-        else if (x <= 14){
-            Bomb bomb = new Bomb(facade);
-            bombs.add(bomb);
-        }
-        else if (x <= 18) {
-            LargeBomb bomb = new LargeBomb(facade);
-            bombs.add(bomb);
+        else if (x <= 16) {
+                ColumnBomb bomb = new ColumnBomb(facade);
+                bombs.add(bomb);
             }
         else  {
-                ColumnBomb bomb = new ColumnBomb(facade);
+                LargeBomb bomb = new LargeBomb(facade);
                 bombs.add(bomb);
             }
 

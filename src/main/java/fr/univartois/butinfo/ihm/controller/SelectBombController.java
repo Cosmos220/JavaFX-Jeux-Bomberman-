@@ -45,6 +45,9 @@ public class SelectBombController {
     @FXML
     private TextArea selectedBombDescription;
 
+    @FXML
+    private Label nombredebombs;
+
     /**
      * La fenêtre de dialogue (Stage) contenant cette interface.
      */
@@ -65,9 +68,11 @@ public class SelectBombController {
      */
     private boolean validerClicked = false;
 
+
+
     /**
      * Méthode d'initialisation automatiquement appelée après le chargement du fichier FXML.
-     * Configure les listeners pour détecter les changements de sélection dans la ListView.
+     * Configure-les listeners pour détecter les changements de sélection dans la ListView.
      */
     @FXML
     public void initialize() {
@@ -107,6 +112,7 @@ public class SelectBombController {
             selectedBomb = bomb;
             selectedBombName.setText(bomb.getName());
             selectedBombDescription.setText(bomb.getDescription());
+            nombredebombs.setText("il reste : "+ (facade.nbRestant(selectedBomb) +" "+ selectedBomb.getName()));
             String imagePath = "/images/" + bomb.getName() + ".png";
             Image image = new Image(getClass().getResource(imagePath).toExternalForm());
             selectedBombImage.setImage(image);
@@ -166,7 +172,7 @@ public class SelectBombController {
     }
 
     /**
-     * Indique si l'utilisateur a cliqué sur le bouton "Valider".
+     * Indique si l'utilisateur à cliquer sur le bouton "Valider".
      *
      * @return true si le bouton "Valider" a été cliqué, false sinon
      */

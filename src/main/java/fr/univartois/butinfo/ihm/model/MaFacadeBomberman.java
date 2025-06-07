@@ -452,4 +452,14 @@ public class MaFacadeBomberman {
         }
         return false;
     }
+    public int nbRestant(AbstractBomb bomb) {
+        int count = 0;
+        for (AbstractBomb nbbomb : bombs) {
+            if (nbbomb.getClass().equals(bomb.getClass())) {
+                count++;
+            }
+        }
+        return count;
+    }
 }
+

@@ -34,6 +34,7 @@ public class Bomb extends AbstractBomb {
     protected Bomb(MaFacadeBomberman game) {
         super(game);
     }
+
     /*
      * (non-Javadoc)
      *
@@ -43,6 +44,7 @@ public class Bomb extends AbstractBomb {
     public String getName() {
         return "bomb";
     }
+
     /*
      * (non-Javadoc)
      *
@@ -52,6 +54,7 @@ public class Bomb extends AbstractBomb {
     public String getDescription() {
         return "Cette bombe fait exploser le contenu des tuiles environnantes.";
     }
+
     /*
      * (non-Javadoc)
      *
@@ -61,6 +64,7 @@ public class Bomb extends AbstractBomb {
     public int getDelay() {
         return 3;
     }
+
     /*
      * (non-Javadoc)
      *
@@ -71,9 +75,8 @@ public class Bomb extends AbstractBomb {
         exploded.set(true);
         for (int i = -1; i <= 1; i++) {
             for (int j = -1; j <= 1; j++) {
-                 game.explode(row + i, column + j);
+                game.explode(row + i, column + j);
             }
         }
     }
-
 }
