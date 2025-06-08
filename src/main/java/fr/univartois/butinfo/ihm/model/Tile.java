@@ -20,7 +20,7 @@ import javafx.beans.property.*;
 import javafx.util.Duration;
 
 /**
- * La classe Tile représente une tuile composant la carte du jeu du Bomberman.
+ * La classe Tile représente une tuile composant la carte du jeu du BombermanApplication.
  * Une fois créée, une telle tuile devient fixe sur la carte : c'est son
  * contenu qui change au cours du jeu.
  *

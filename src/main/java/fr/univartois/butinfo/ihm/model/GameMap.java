@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * La classe fr.univartois.butinfo.ihm.model.GameMap représente la carte du jeu du Bomberman, sur laquelle les personnages
+ * La classe fr.univartois.butinfo.ihm.model.GameMap représente la carte du jeu du BombermanApplication, sur laquelle les personnages
  * se déplacent et peuvent poser des bombes.
  *
  * @author Romain Wallon

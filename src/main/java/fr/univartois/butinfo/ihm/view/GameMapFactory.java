@@ -23,7 +23,7 @@ import java.util.Random;
 
 /**
  * La classe fr.univartois.butinfo.ihm.view.GameMapFactory est une classe utilitaire qui permet de créer
- * différentes cartes pour le jeu du Bomberman.
+ * différentes cartes pour le jeu du BombermanApplication.
  *
  * @author Romain Wallon
  *

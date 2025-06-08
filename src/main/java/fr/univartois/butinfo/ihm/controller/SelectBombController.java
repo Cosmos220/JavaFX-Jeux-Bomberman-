@@ -92,7 +92,7 @@ public class SelectBombController {
     /**
      * Définit la facade et initialise la liste des bombes disponibles.
      *
-     * @param facade la facade du modèle Bomberman contenant les données des bombes
+     * @param facade la facade du modèle BombermanApplication contenant les données des bombes
      */
     public void setFacade(MaFacadeBomberman facade) {
         this.facade = facade;

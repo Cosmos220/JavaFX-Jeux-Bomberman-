@@ -27,13 +27,13 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * La classe Bomberman illustre le fonctionnement d'une {@link Application} JavaFX.
+ * La classe BombermanApplication illustre le fonctionnement d'une {@link Application} JavaFX.
  *
  * @author Romain Wallon
  *
  * @version 0.1.0
  */
-public class Bomberman extends Application  {
+public class BombermanApplication extends Application  {
 
 
     MaFacadeBomberman facade = new MaFacadeBomberman();
@@ -57,7 +57,7 @@ public class Bomberman extends Application  {
         // Configuration de la fenêtre
         stage.setScene(scene);
         stage.sizeToScene();
-        stage.setTitle("Bomberman");
+        stage.setTitle("BombermanApplication");
         stage.show();
 
     }

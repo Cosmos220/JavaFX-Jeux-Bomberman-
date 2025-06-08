@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Classe principale qui gère la logique du jeu Bomberman.
+ * Classe principale qui gère la logique du jeu BombermanApplication.
  * Cette façade centralise toutes les interactions entre les différents composants du jeu :
  * joueur, ennemis, bombes, carte de jeu et interface utilisateur.
  *
@@ -238,7 +238,7 @@ public class MaFacadeBomberman {
         this.player = new Player(this, bombs);
         BombermanInterface.stockerBombes(bombs);
 
-        this.map = GameMapFactory.createMapWithRandomBrickWalls(ROWS, COLS, 25);
+        this.map = GameMapFactory.createMapWithRandomBrickWalls(ROWS, COLS, 50);
         setMap(map);
 
         placerPerso(player);

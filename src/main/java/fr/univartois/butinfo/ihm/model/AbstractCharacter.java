@@ -19,7 +19,7 @@ import javafx.beans.property.SimpleIntegerProperty;
 
 /**
  * La classe AbstractCharacter est la classe parente des différents personnages pouvant se
- * déplacer dans le jeu du Bomberman.
+ * déplacer dans le jeu du BombermanApplication.
  *
  * @author Romain Wallon
  *

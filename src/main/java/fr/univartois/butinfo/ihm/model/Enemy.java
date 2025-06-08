@@ -22,7 +22,7 @@ import javafx.util.Duration;
 import java.util.Random;
 
 /**
- * La classe Enemy représente un adversaire du joueur dans le jeu du Bomberman.
+ * La classe Enemy représente un adversaire du joueur dans le jeu du BombermanApplication.
  *
  * @author Romain Wallon
  *

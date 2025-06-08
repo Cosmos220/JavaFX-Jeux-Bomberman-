@@ -16,7 +16,7 @@ package fr.univartois.butinfo.ihm.model; /**
 
 /**
  * L'énumération fr.univartois.butinfo.ihm.model.TileContent énumère les différents éléments qui constituent
- * la carte du jeu du Bomberman.
+ * la carte du jeu du BombermanApplication.
  *
  * @author Romain Wallon
  *

@@ -26,7 +26,7 @@ import javafx.scene.control.Button;
 
 /**
  * La classe BombermanController illustre le fonctionnement du contrôleur associé à une vue.
- * Cette classe gère l'interface utilisateur du jeu Bomberman et fait le lien entre la vue
+ * Cette classe gère l'interface utilisateur du jeu BombermanApplication et fait le lien entre la vue
  * et le modèle métier via la facade.
  *
  * @author DAVI Loick
